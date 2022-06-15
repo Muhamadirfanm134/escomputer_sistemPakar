@@ -1181,6 +1181,7 @@ i {
 	overflow: hidden;
 	display: block;
 	background-size: 100%;
+
 }
 
 .landing-page .parallax .container {
@@ -1195,6 +1196,7 @@ i {
 
 .filter-gradient {
 	position: relative;
+		filter: blur(10px);
 }
 
 .filter-gradient:after {
@@ -1208,6 +1210,7 @@ i {
 	z-index: 1;
 	content: "";
 	opacity: .7;
+	filter: blur(10px);
 }
 
 .filter-gradient.gray:after {
@@ -1232,6 +1235,7 @@ i {
 
 .filter-gradient.blue:after {
 	background: rgba(54, 151, 142, 0.8);
+	filter: blur(10px);
 	/* Old browsers */
 	background: -moz-radial-gradient(center, ellipse cover, #1e5799 0%, rgba(54, 151, 142, 0.8) 0%, #0C526C 100%, #3d7eaa 100%, #182848 100%, #6e48aa 100%, #6e48aa 100%);
 	/* FF3.6+ */
@@ -1322,6 +1326,7 @@ i {
 	z-index: 1;
 	width: 100%;
 	height: 100%;
+	filter: blur(10px);
 }
 
 .landing-page .parallax .parallax-background img {
