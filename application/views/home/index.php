@@ -82,6 +82,16 @@
 	                    yang
 	                    sering dialami.
 	                </p>
+
+	                <div
+	                    style="background-color: rgba(255, 255, 255, 0.788); color:#333333; padding: 20px; border-radius: 10px; margin-top: 30px">
+	                    <h5><b>Meet Our Team</b></h5>
+
+	                    <img style="width: 400px" src="<?= base_url('assets2'); ?>/img/showcases/showcase-2/team.png"
+	                        alt="Avatar">
+
+
+	                </div>
 	            </div>
 	        </div>
 	    </section>
