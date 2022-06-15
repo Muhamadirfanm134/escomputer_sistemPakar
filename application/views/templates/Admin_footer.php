@@ -1,10 +1,10 @@
 <!-- footer content -->
 <footer>
-  <div class="pull-right">
-    <h6><i class="fa fa-desktop"></i> ES Komputer</h6>
-    <p>©2019- Sistem Pakar Diagnosa Kerusakan Komputer Alfonso0087</p>
-  </div>
-  <div class="clearfix"></div>
+    <div class="pull-right">
+        <h6><i class="fa fa-desktop"></i> ES Computer</h6>
+        <p>©2022- Sistem Pakar Diagnosa Kerusakan Komputer By Kelompok 6</p>
+    </div>
+    <div class="clearfix"></div>
 </footer>
 <!-- /footer content -->
 </div>
