@@ -1196,7 +1196,7 @@ i {
 
 .filter-gradient {
 	position: relative;
-		filter: blur(10px);
+	
 }
 
 .filter-gradient:after {
@@ -1210,7 +1210,7 @@ i {
 	z-index: 1;
 	content: "";
 	opacity: .9;
-	filter: blur(10px);
+
 }
 
 .filter-gradient.gray:after {
@@ -1235,7 +1235,7 @@ i {
 
 .filter-gradient.blue:after {
 	background: rgba(54, 151, 141, 0.788);
-	filter: blur(10px);
+
 	/* Old browsers */
 	background: -moz-radial-gradient(center, ellipse cover, #1e5799 0%, rgba(54, 151, 142, 0.8) 0%, #0C526C 100%, #3d7eaa 100%, #182848 100%, #6e48aa 100%, #6e48aa 100%);
 	/* FF3.6+ */
@@ -1441,7 +1441,7 @@ i {
 	position: absolute;
 	top: 0;
 	left: 0;
-	height: 600px;
+	height: 800px;
 }
 
 .landing-page .section-presentation .iphone-presentation {
@@ -1469,7 +1469,7 @@ i {
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
 	z-index: 20;
-	top: 150px;
+	top: 100px;
 
 }
 
